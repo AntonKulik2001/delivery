@@ -93,7 +93,7 @@ main {
 }
 
 .banner-item {
-    background-image: url(./images/banners/banner-image.png);
+    background-image: url(../images/banners/banner-image.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center right;
